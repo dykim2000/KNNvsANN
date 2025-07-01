@@ -1,5 +1,9 @@
-# KNNvsANN
+## KNNvsANN 
+#### Daeyeon Kim
+<hr/>
+
 Comparing the performance of the two models KNN and ANN in regression and classification tasks
+Comments and explanation are in the Jupyter Notebook files
 
 - Regression_DaeyeonKim.ipynb - Comparing regression tasks for both models
 - Classification_DaeyeonKim.ipynb - Comparing classification tasks for both models
